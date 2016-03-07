@@ -1,0 +1,28 @@
+name: tudoristi.com
+favicon: null
+layout_spectrum: 0.3461359168868512
+typography_spectrum: 0.037651332560926676
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9549589804373682
+  lightness: 0.9224822991527617
+  saturation: 0.562266977969557
+  rhythmicContrast: 0.35852945572696626
+purpose: []
