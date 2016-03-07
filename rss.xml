@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[tudoristi.com]]></title>
         <description><![CDATA[tudoristi.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tudoristi-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 12:26:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 12:41:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tudoristi-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>this is the start of a new adventure.</p>]]></description>
-            <link>undefinedfd53f2e1-762e-4ede-83ff-fa41d20e98fb/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2a4f9ef-2ca5-42ba-bc5a-2b85ffaa121a.jpg">]]></description>
+            <link>https://thegrid.ai/tudoristi-com/fd53f2e1-762e-4ede-83ff-fa41d20e98fb/index.html</link>
             <guid isPermaLink="false">fd53f2e1-762e-4ede-83ff-fa41d20e98fb</guid>
-            <pubDate>Mon, 07 Mar 2016 12:25:44 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 12:40:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
