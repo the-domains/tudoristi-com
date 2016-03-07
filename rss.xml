@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[tudoristi.com]]></title>
+        <description><![CDATA[tudoristi.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 12:26:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>this is the start of a new adventure.</p>]]></description>
+            <link>undefinedfd53f2e1-762e-4ede-83ff-fa41d20e98fb/index.html</link>
+            <guid isPermaLink="false">fd53f2e1-762e-4ede-83ff-fa41d20e98fb</guid>
+            <pubDate>Mon, 07 Mar 2016 12:25:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
